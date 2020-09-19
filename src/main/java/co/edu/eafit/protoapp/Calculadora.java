@@ -1,4 +1,4 @@
-package com.eafit.werecruit;
+package co.edu.eafit.protoapp;
 
 public class Calculadora {
 
